@@ -15,10 +15,9 @@
     "lucide-react": "^0.268.0",
     "@radix-ui/react-popover": "^1.0.0"
   },
-  "devDependencies": {
-    "tailwindcss": "^3.5.0",
-    "autoprefixer": "^10.4.0",
-    "postcss": "^8.4.0",
-    "typescript": "^5.1.0"
+	"devDependencies": {
+	"tailwindcss": "^4.1.12",
+	"@tailwindcss/postcss": "^latest",
+	"autoprefixer": "^10.4.0"
   }
 }
